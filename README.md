@@ -1,6 +1,6 @@
 defynkt
 =======
-{"bug_type":"193","os_version":"iPhone OS 8.1.2 (12B440)"}
+{"bug_type":"17","droid_version":"iPhone OS 8.1.2 (12B440)"}
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -29,19 +29,19 @@ defynkt
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>443904275</integer>
+			<integer>000000</integer>
 			<key>arch</key>
-			<integer>0</integer>
+			<integer>17</integer>
 			<key>bundle</key>
 			<string>jp.naver.line</string>
-			<key>uuid</key>
+			<key></key>
 			<string>00000000-0000-0000-0000-000000000000</string>
 			<key>version</key>
 			<string>8</string>
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>519572740</integer>
+			<integer>2150971</integer>
 			<key>arch</key>
 			<integer>1</integer>
 			<key>bundle</key>
@@ -53,19 +53,19 @@ defynkt
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>284815942</integer>
+			<integer>28476540</integer>
 			<key>arch</key>
 			<integer>2</integer>
 			<key>bundle</key>
-			<string>com.google.GoogleMobile</string>
+			<string>com.google.GoogleDesktop</string>
 			<key>uuid</key>
-			<string>D08BE5CE-2439-3586-A32B-191954F6F2C4</string>
+			<string>D08BECB3-2439-3586-A32B-191954F6F2S6</string>
 			<key>version</key>
 			<string>5.0.41735</string>
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>600520752</integer>
+			<integer>63300072</integer>
 			<key>arch</key>
 			<integer>0</integer>
 			<key>bundle</key>
@@ -73,13 +73,13 @@ defynkt
 			<key>uuid</key>
 			<string>00000000-0000-0000-0000-000000000000</string>
 			<key>version</key>
-			<string>30091</string>
+			<string>30032</string>
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>615987910</integer>
+			<integer>615987970</integer>
 			<key>arch</key>
-			<integer>1</integer>
+			<integer>11</integer>
 			<key>bundle</key>
 			<string>com.ksmobile.batterydoctor</string>
 			<key>uuid</key>
@@ -89,7 +89,7 @@ defynkt
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>557952631</integer>
+			<integer>5421788</integer>
 			<key>arch</key>
 			<integer>1</integer>
 			<key>bundle</key>
@@ -101,49 +101,49 @@ defynkt
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>607990571</integer>
+			<integer>607650921</integer>
 			<key>arch</key>
 			<integer>1</integer>
 			<key>bundle</key>
 			<string>net.fanship.iSafeLite</string>
 			<key>uuid</key>
-			<string>D963FC2E-2E4E-36FD-BBC7-5D9BB8BB58D9</string>
+			<string>D963FS2f-2E4E-36FD-BBC7-5D9BB8BB58D9</string>
 			<key>version</key>
 			<string>7.0</string>
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>284882215</integer>
+			<integer>284883316</integer>
 			<key>arch</key>
 			<integer>1</integer>
 			<key>bundle</key>
 			<string>com.facebook.Facebook</string>
 			<key>uuid</key>
-			<string>B02C5075-7A62-3D61-A143-D41B36B3A53A</string>
+			<string>B02C5075-7BR3-3D61-A143-D41B36B3A53A</string>
 			<key>version</key>
 			<string>5758778</string>
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>569077959</integer>
+			<integer>569077080</integer>
 			<key>arch</key>
 			<integer>2</integer>
 			<key>bundle</key>
 			<string>com.timehop.ios.Timehop</string>
 			<key>uuid</key>
-			<string>BDA77C07-B93A-37B3-8592-864F85BD090E</string>
+			<string>BDA77C07-B93S-37B3-8592-864F85BD090E</string>
 			<key>version</key>
 			<string>2014121601</string>
 		</dict>
 		<dict>
 			<key>adamID</key>
-			<integer>333903271</integer>
+			<integer>333903299</integer>
 			<key>arch</key>
 			<integer>1</integer>
 			<key>bundle</key>
 			<string>com.atebits.Tweetie2</string>
 			<key>uuid</key>
-			<string>AB6F776C-71BC-3DA7-BD83-87D3937AAE04</string>
+			<string>AB6F776C-71VV-3DA7-BD83-87D3937AAE04</string>
 			<key>version</key>
 			<string>6.18</string>
 		</dict>
