@@ -1,8 +1,8 @@
 defynkt
 =======
-{"bug_type":"17","droid_version":"iPhone OS 8.1.2 (12B440)"}
+{"bug_type":"17","droid_version":" Droid RAZR(12B440)"}
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Android//DTD PLIST 1.0//EN" 
 <plist version="1.0">
 <dict>
 	<key>ADActivatedAppInfo</key>
@@ -14,7 +14,7 @@ defynkt
 			<integer>2</integer>
 			<key>bundle</key>
 			<string>com.yahoo.Aerogram</string>
-			<key>uuid</key>
+	
 			<string>E6729943-2294-388B-9FE0-7D8EE5EEBF10</string>
 			<key>version</key>
 			<string>3.6.15</string>
